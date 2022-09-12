@@ -17,5 +17,5 @@ I create the projects for my growths.
 - Add backend 
 - make SEO for this
 ## ##
-** This is my Tailwind Base project **\
-*You Can check out the [FrintArt](https://Jagrati1213.github.io/nike-clone)*
+** This is my Tailwind Base project **
+*You Can check out the [nike](https://Jagrati1213.github.io/nike-clone)*
