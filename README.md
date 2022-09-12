@@ -19,3 +19,5 @@ I create the projects for my growths.
 * This is my Tailwind Base project *
 ## ##
 *You Can check out the [nike](https://Jagrati1213.github.io/nike-clone)*
+![image](https://user-images.githubusercontent.com/85276293/189605793-e34aeec2-708e-42bf-8b79-dd5f9dcd5fd0.png)
+
