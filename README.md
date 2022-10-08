@@ -25,6 +25,8 @@ It was an E-commerce website Clone Of NIke.
 ![Screenshot (473)](https://user-images.githubusercontent.com/85276293/194697350-ab8f7266-0736-46c0-94b5-e4021ba5f341.png)
 ![Screenshot (474)](https://user-images.githubusercontent.com/85276293/194697317-5727340f-ed1d-4e62-abc6-3337fd62875c.png)
 ![Screenshot (475)](https://user-images.githubusercontent.com/85276293/194697500-6567bd89-0f9c-4ecb-b716-34ee471da6ed.png)
+![Screenshot (476)](https://user-images.githubusercontent.com/85276293/194697545-54b08208-946f-4f7f-9645-6efe9a8651da.png)
+
 
 
 
