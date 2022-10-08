@@ -11,7 +11,7 @@ It was an E-commerce website Clone Of NIke.\
 - Jquery
 - AOS
 - Slick Slider
-### pending Work ###
+### Pending Work ###
 - Add backend 
 - make SEO for this
 ## ##
