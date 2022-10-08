@@ -1,5 +1,5 @@
 # Nike- UI clone
-It was an E-commerce website Clone Of NIke.\ 
+It was an E-commerce website Clone Of NIke. 
 ## Used language ##
 - HTML 
 - CSS
