@@ -15,7 +15,7 @@ It was an E-commerce website Clone Of NIke.
 - Add backend 
 - make SEO for this
 ## ##
-* It was Tailwind CSS used project *
+ It was Tailwind CSS used project 
 ## ##
 *Devloyed project link- [nike](https://Jagrati1213.github.io/nike-clone)*
 ### Project gallery ###
