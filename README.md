@@ -1,23 +1,35 @@
-# Nike- UI clone
-It was an E-commerce website Clone Of NIke. 
-## Used language ##
-- HTML 
-- CSS
-- Javascript
-### FrameWork ###
-- Tailwind
-- Font Awesome
-- Iconic
-- Jquery
-- AOS
-- Slick Slider
-### Pending Work ###
-- Add backend 
-- make SEO for this
-## ##
- It was Tailwind CSS used project 
-## ##
-*Devloyed project link- [nike](https://Jagrati1213.github.io/nike-clone)*
+# Nike Home Page UI Clone
+This project is a clone of the Nike Home Page, focusing on replicating the user interface using HTML, CSS, and JavaScript. The project also utilizes Tailwind CSS for styling.
+**[nike](https://Jagrati1213.github.io/nike-clone)**
+## Tech Stack :
+
+- **HTML**: Used for structuring the web page.
+- **CSS**: Employed for styling and layout.
+- **JavaScript**: Implemented for dynamic and interactive elements.
+- **Tailwind CSS**: Utilized for fast and efficient styling.
+
+## Installation :
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Jagrati1213/nike-clone.git
+   ```
+
+2. Open the project directory:
+
+   ```bash
+   cd nike-clone
+   ```
+
+3. Open `index.html` in your preferred web browser.
+
+## Features :
+
+- Responsive design that adapts to various screen sizes.
+- Interactive elements using JavaScript.
+- Utilization of Tailwind CSS for streamlined styling.
+
 ### Project gallery ###
 
 ![image](https://user-images.githubusercontent.com/85276293/189605793-e34aeec2-708e-42bf-8b79-dd5f9dcd5fd0.png)
